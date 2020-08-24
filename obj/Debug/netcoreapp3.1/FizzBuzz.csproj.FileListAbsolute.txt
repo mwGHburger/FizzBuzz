@@ -1,0 +1,12 @@
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache
